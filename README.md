@@ -30,7 +30,7 @@
 
 - ✨ A perpetual student of life, finding wisdom in every experience!
   
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C# & Python
 
 - 🎃 Currently im a retrainee in application development
 
