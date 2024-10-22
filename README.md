@@ -59,7 +59,7 @@
 </div>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,py,js,html&perline=11" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,py,js,html,css&perline=11" />
   </a>
 </p>
 
@@ -70,7 +70,7 @@
 </div>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,bun,github,mysql,git,visualstudio,vscode&perline=11" />
+    <img src="https://skillicons.dev/icons?i=nodejs,bun,github,mysql,git,visualstudio,vscode,rider,clion,pycharm,webstorm&perline=11" />
   </a>
 </p>
 
