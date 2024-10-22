@@ -52,14 +52,25 @@
 
 
 <!--tech stack icons-->
-<h2 align="left">Skillset and Tools<img src="https://storage.shinaii.xyz/oZaYJ9uE.gif" width="30"/>
+<h2 align="left">Skillset<img src="https://storage.shinaii.xyz/oZaYJ9uE.gif" width="30"/>
 <!--divider-->
 <div align=center>
    <img height=50 width=100% src="https://storage.shinaii.xyz/zo0hJ2uC.gif">
 </div>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,py,js,html,nodejs,bun,github,mysql,git,visualstudio,vscode&perline=11" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,py,js,html&perline=11" />
+  </a>
+</p>
+
+<h2 align="left">Tools<img src="https://storage.shinaii.xyz/oZaYJ9uE.gif" width="30"/>
+<!--divider-->
+<div align=center>
+   <img height=50 width=100% src="https://storage.shinaii.xyz/zo0hJ2uC.gif">
+</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,bun,github,mysql,git,visualstudio,vscode&perline=11" />
   </a>
 </p>
 
